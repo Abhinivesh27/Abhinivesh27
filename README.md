@@ -4,7 +4,7 @@
   <samp>
     I am Abhinivesh <em></em>. I am a Developer and Penetration Tester... 
   <br/> Android Security enthusiast... Flutter addict. 
-    <br/> (<em>ex</em>)Fulltime student.
+    <br/> (<em>ex</em>)Tamil CTF.
     Continuously learning, wanting to help the community
   </samp>
   <br/>
